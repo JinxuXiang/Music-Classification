@@ -3,7 +3,7 @@ Create Split and Vote method to increase the music classification accuracy on SV
 
 
 Music Genre Classification:
-<img width="150" height="150" src="https://github.com/JinxuXiang/Music-Classification/blob/main/fig/SVM%20Genre.png"/>
+
 #![image](https://github.com/JinxuXiang/Music-Classification/blob/main/fig/SVM%20Genre.png)
 
 #![image](https://github.com/JinxuXiang/Music-Classification/blob/main/fig/ACC%20Genre.png)
